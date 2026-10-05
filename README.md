@@ -385,6 +385,7 @@ Benchmarks are separated into direct self-improvement evaluations, frontier-lab 
 - [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Self-evolving agent framework that retrieves, evaluates, repairs, and rewrites persistent skills through reflective learning.
 - [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - MCP server for a hosted persistent-memory engine that re-ranks an agent's recall from reported outcomes, so what helped or misled on one task changes what is returned on later ones.
 - [Reef](https://github.com/Human-Agent-Society/reef) - Continual-learning serving infrastructure that records agent interactions, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts.
+- [ReMe](https://github.com/agentscope-ai/ReMe) - Local-first agent memory system that consolidates conversations and resources into persistent, evolving Markdown knowledge for reuse across agents.
 - [Voyager](https://github.com/MineDojo/Voyager) - Embodied lifelong-learning agent with automatic curriculum, iterative prompting, and a reusable skill library.
 
 ### Automated Search / AI R&D
