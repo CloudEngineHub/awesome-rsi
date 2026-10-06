@@ -402,6 +402,7 @@ Benchmarks are separated into direct self-improvement evaluations, frontier-lab 
 - [harness-zero](https://github.com/metaevo-ai/harness-zero) - Official implementation of Harness-Zero: Harness Distillation via Agent-as-Harness.
 - [Letta Code](https://github.com/letta-ai/letta-code) - Memory-first coding-agent harness whose long-lived agents rewrite context and learn skills from experience.
 - [Memento-Skills](https://github.com/Memento-Teams/Memento-Skills) - Self-evolving agent framework that retrieves, evaluates, repairs, and rewrites persistent skills through reflective learning.
+- [meta-context-engineering](https://github.com/metaevo-ai/meta-context-engineering) - Official implementation of Meta Context Engineering via Agentic Skill Evolution.
 - [Mnemoverse Memory](https://github.com/mnemoverse/mcp-memory-server) - MCP server for a hosted persistent-memory engine that re-ranks an agent's recall from reported outcomes, so what helped or misled on one task changes what is returned on later ones.
 - [Raven](https://github.com/EverMind-AI/Raven) - Multi-agent harness built for recursive self-improvement that splits its agent loop into Memory, Planning, Capability, and Action strategy modules, which an experimental Curator rewrites per agent and installs only after verification.
 - [Reef](https://github.com/Human-Agent-Society/reef) - Continual-learning serving infrastructure that records agent interactions, turns matched feedback into model-weight or harness updates, and publishes accepted updates as versioned artifacts.
